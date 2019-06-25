@@ -20,6 +20,7 @@ Crafts Room/Bridge Repair
     Crocus/Winter Foraging
   Construction Bundle/Charcoal Kiln (1)/4
     Wood:99/Chopping Trees or branches with an Axe
+    Wood:99/Chopping Trees or branches with an Axe
     Stone:99/Smashing stones with a Pickaxe
     Hardwood:10/Chopping Large Stumps or Large Logs with an upgraded Axe, smashing crates in The Mines
   Exotic Foraging Bundle/Autumn's Bounty (5)/5
