@@ -1,0 +1,13 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - cd $CODEBUILD_SRC_DIR; npm install
+  build:
+    commands:
+      - cd $CODEBUILD_SRC_DIR; npm run build
+  post_build:
+    commands:
+      - cd $CODEBUILD_SRC_DIR/build
+      - aws s3 sync . $S3_TARGET
