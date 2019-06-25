@@ -5,7 +5,7 @@ export interface IProps {
 }
 
 const GithubLink: React.FC<IProps> = props => (
-  <a href={props.link} target="_blank">
+  <a href={props.link} target="_blank" rel="noopener noreferrer">
     <svg height="24" width="24" viewBox="0 0 16 16" version="1.1" aria-hidden="true" fill="#808080">
       <path
         fill-rule="evenodd"

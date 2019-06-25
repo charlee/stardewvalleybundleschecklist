@@ -1,44 +1,35 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Stardew Valley Bundles Checklist
 
-## Available Scripts
+This application is a checklist for the community center bundles quest in the game
+"Stardew Valley". The application is deployed at https://stardewvalleybundleschecklist.idv2.com/.
 
-In the project directory, you can run:
+# Usage
 
-### `npm start`
+Open [the site](https://stardewvalleybundleschecklist.idv2.com/) with your desktop or mobile browser.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Each list shows the items required in one room, and each subsection in a list shows the 
+  items required by a bundle.
+- Click an item to complete it.
+- The number "0/4" shown to the right of the bundle name is the required items in this bundle.
+- Checked items are saved in cookie.
+- Click the "RESET" button in the header bar to remove all the checks.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+# Contribute
 
-### `npm test`
+This application is developed using React 16. If you are interested in contributing, please:
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Fork this repo
+- Clone to your own computer
+- Run `npm install` then `npm start`
+- Create a branch and do necessary changes
+- Submit a PR to this repo
 
-### `npm run build`
+# Disclaimer
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This is a fan-made application; it was created for research and recreation purpose,
+and is completely nonprofit. It is not an official product, and it should not be sold
+nor bought; it is intented for private use only.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+"Stardew Valley" is a trademark of [ConcernedApe LLC](https://chucklefish.org/). All the text and image contents
+used in this applications are from the [Stardew Valley Wiki](https://stardewvalleywiki.com/Bundles)
+and is used under the [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) License.

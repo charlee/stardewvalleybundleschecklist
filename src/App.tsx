@@ -40,7 +40,7 @@ const useStyles = makeStyles((theme: Theme) =>
       marginTop: 40,
       borderTop: `1px solid ${theme.palette.divider}`,
       paddingTop: 24,
-      marginBottom: 48,
+      paddingBottom: 48,
       color: theme.palette.grey[500],
     },
   }),
@@ -93,22 +93,22 @@ const App: React.FC = () => {
         </p>
         <p>
           Bundle and Item information is from the{' '}
-          <a href="https://stardewvalleywiki.com/Bundles" target="_blank">
+          <a href="https://stardewvalleywiki.com/Bundles" target="_blank" rel="noopener noreferrer">
             Stardew Valley Wiki
           </a>{' '}
           and is used under the{' '}
-          <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">
+          <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" rel="noopener noreferrer">
             CC BY-NC-SA 3.0
           </a>{' '}
           License.
         </p>
         <p>
           Stardew Valley &copy;{' '}
-          <a href="https://chucklefish.org/" target="_blank">
+          <a href="https://chucklefish.org/" target="_blank" rel="noopener noreferrer">
             Chucklefish LTD.
           </a>{' '}
           Developed by{' '}
-          <a href="https://twitter.com/ConcernedApe" target="_blank">
+          <a href="https://twitter.com/ConcernedApe" target="_blank" rel="noopener noreferrer">
             ConcernedApe
           </a>
           .
