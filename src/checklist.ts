@@ -26,12 +26,12 @@ export interface Room {
 
 const checklist: Room[] = preval`
     const fs = require('fs');
-    const data = fs.readFileSync(__dirname + '/assets/bundle_data.txt', 'utf8');
+    const data = fs.readFileSync(__dirname + '/assets/bundles.txt', 'utf8');
     const lines = data.split("\\n").filter(l => !!l.trimEnd());
     const rooms = [];
 
     function replaceIcon(name) {
-        return name.replace(/[ -]/g, '_').replace("'", '');
+        return name.replace(/['()]/g, '').replace(/[- ]/g, '_');
     }
 
     for (const line of lines) {
@@ -50,10 +50,16 @@ const checklist: Room[] = preval`
 
         } else if (line.startsWith('    ')) {
             // Item data
-            const [name, description] = line.trim().split('/');
+            let [name, description] = line.trim().split('/');
+            let count = 1;
+            if (name.includes(':')) {
+                const parts = name.split(':');
+                name = parts[0];
+                count = parseInt(parts[1]);
+            }
             const room = rooms[rooms.length - 1];
             const bundle = room.bundles[room.bundles.length - 1];
-            const item = { name, description, icon: replaceIcon(name), id: bundle.id * 10 + bundle.items.length + 1 };
+            const item = { name, description, icon: replaceIcon(name), id: bundle.id * 10 + bundle.items.length + 1, count };
             bundle.items.push(item);
         }
     }

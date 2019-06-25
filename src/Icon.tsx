@@ -29,7 +29,7 @@ export interface IProps {
 const Icon: React.FC<IProps> = props => {
   return (
     <div>
-      <img src={mappings[props.name]} />
+      <img src={mappings[props.name]} alt={props.name} />
     </div>
   );
 };

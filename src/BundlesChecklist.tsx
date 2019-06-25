@@ -17,7 +17,40 @@ import Icon from './Icon';
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
-    root: {},
+    root: {
+      maxWidth: 640,
+    },
+
+    room: {
+      marginTop: 16,
+      marginBottom: 8,
+    },
+
+    list: {
+      background: theme.palette.background.paper,
+      boxShadow: theme.shadows[1],
+    },
+
+    listTextSecondary: {
+      fontSize: 12,
+    },
+
+    bundle: {
+      display: 'flex',
+      flexDirection: 'column',
+      lineHeight: 'normal',
+      paddingTop: 8,
+      paddingBottom: 8,
+    },
+
+    bundleName: {
+      fontSize: 14,
+      fontWeight: 'bold',
+    },
+
+    bundleReward: {
+      fontSize: 12,
+    },
   }),
 );
 
@@ -27,20 +60,27 @@ const BundlesChecklist: React.FC = () => {
     <div className={classes.root}>
       {checklist.map(room => (
         <React.Fragment key={room.id}>
-          <Typography variant="caption">{room.name}</Typography>
-          <List>
+          <div className={classes.room}>
+            <Typography variant="subtitle1">{room.name}</Typography>
+            <Typography variant="caption">(Reward: {room.reward})</Typography>
+          </div>
+          <List className={classes.list}>
             {room.bundles.map(bundle => (
               <React.Fragment key={bundle.id}>
-                <ListSubheader>{bundle.name}</ListSubheader>
+                <ListSubheader className={classes.bundle}>
+                  <div className={classes.bundleName}>{bundle.name}</div>
+                  <div className={classes.bundleReward}>(Reward: {bundle.reward})</div>
+                </ListSubheader>
                 {bundle.items.map(item => (
                   <ListItem key={item.id}>
                     <ListItemIcon>
-                      <Checkbox />
-                    </ListItemIcon>
-                    <ListItemIcon>
                       <Icon name={item.icon} />
                     </ListItemIcon>
-                    <ListItemText primary={item.name} />
+                    <ListItemText
+                      classes={{ secondary: classes.listTextSecondary }}
+                      primary={item.name + (item.count > 1 ? ` (${item.count})` : '')}
+                      secondary={item.description}
+                    />
                   </ListItem>
                 ))}
               </React.Fragment>

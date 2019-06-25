@@ -15,6 +15,7 @@ const useStyles = makeStyles((theme: Theme) =>
 
     body: {
       padding: 16,
+      background: theme.palette.background.default,
     },
   }),
 );

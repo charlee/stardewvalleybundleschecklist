@@ -1,0 +1,155 @@
+Crafts Room/Bridge Repair
+  Spring Foraging Bundle/Spring Seeds (30)/4
+    Wild Horseradish/Spring Foraging
+    Daffodil/Spring Foraging, buy from Pierre at Flower Dance
+    Leek/Spring Foraging
+    Dandelion/Spring Foraging, buy from Pierre at Flower Dance
+  Summer Foraging Bundle/Summer Seeds (30)/3
+    Grape/Summer Foraging, Fall Farming
+    Spice Berry/Summer Foraging, The Farm Cave (fruit bat option)
+    Sweet Pea/Summer Foraging
+  Fall Foraging Bundle/Fall Seeds (30)/4
+    Common Mushroom/Fall Foraging, Spring & Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree
+    Wild Plum/Fall Foraging, The Farm Cave (fruit bat option)
+    Hazelnut/Fall Foraging
+    Blackberry/Fall Foraging, The Farm Cave (fruit bat option)
+  Winter Foraging Bundle/Winter Seeds (30)/4
+    Winter Root/Tilling soil or Artifact Spots in Winter, dropped by Blue Slimes on levels 41-79 of The Mines
+    Crystal Fruit/Winter Foraging, dropped by Dust Sprites on levels 41-79 of The Mines
+    Snow Yam/Tilling soil or Artifact Spots in Winter
+    Crocus/Winter Foraging
+  Construction Bundle/Charcoal Kiln (1)/4
+    Wood:99/Chopping Trees or branches with an Axe
+    Stone:99/Smashing stones with a Pickaxe
+    Hardwood:10/Chopping Large Stumps or Large Logs with an upgraded Axe, smashing crates in The Mines
+  Exotic Foraging Bundle/Autumn's Bounty (5)/5
+    Coconut/Desert Foraging
+    Cactus Fruit/Desert Foraging
+    Cave Carrot/The Mines, either smashing boxes or tilling soil
+    Red Mushroom/Foraging in The Mines, Summer or Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree, Forest Farm Map in Fall.
+    Purple Mushroom/The Mines, The Farm Cave (mushroom option), Forest Farm Map Foraging in Fall
+    Maple Syrup/Tapped Maple Tree
+    Oak Resin/Tapped Oak Tree
+    Pine Tar/Tapped Pine Tree
+    Morel/Foraging in the Secret Woods or Forest Farm Map in Spring, The Farm Cave (mushroom option)
+Pantry/Greenhouse
+  Spring Crops Bundle/Speed-Gro (20)/4
+    Parsnip/Spring Crops
+    Green Bean/Spring Crops
+    Cauliflower/Spring Crops
+    Potato/Spring Crops
+  Summer Crops Bundle/Quality Sprinkler (1)/4
+    Tomato/Summer Crops
+    Hot Pepper/Summer Crops
+    Blueberry/Summer Crops
+    Melon/Summer Crops
+  Fall Crops Bundle/Bee House (1)/4
+    Corn/Summer / Fall Crops
+    Eggplant/Fall Crops
+    Pumpkin/Fall Crops
+    Yam/Fall Crops
+  Quality Crops Bundle/Preserves Jar (1)/3
+    Parsnip:5/
+    Melon:5/
+    Pumpkin:5/
+    Corn:5/
+  Animal Bundle/Cheese Press (1)/5
+    Large Milk/Cows
+    Large Egg (Brown)/Chickens
+    Large Egg/Chickens
+    Large Goat Milk/Goats
+    Wool/Sheep, Rabbits
+    Duck Egg/Ducks
+  Artisan Bundle/Keg (1)/6
+    Truffle Oil/Made from Truffles using an Oil Maker
+    Cloth/Loom, Recycling a Soggy Newspaper
+    Goat Cheese/Cheese Press
+    Cheese/Cheese Press
+    Honey/Bee House
+    Jelly/Preserves Jar
+    Apple/Apple Trees during Fall, The Farm Cave (fruit bat option)
+    Apricot/Apricot Trees during Spring, The Farm Cave (fruit bat option)
+    Orange/Orange Trees during Summer, The Farm Cave (fruit bat option)
+    Peach/Peach Trees during Summer, The Farm Cave (fruit bat option)
+    Pomegranate/Pomegranate Trees during Fall, The Farm Cave (fruit bat option)
+    Cherry/Cherry Trees during Spring, The Farm Cave (fruit bat option)
+Fish Tank/Glittering Boulder Removed
+  River Fish Bundle/Bait (30)/4
+    Sunfish/Found in Rivers, 6am – 7pm, Spring, and Summer during sunny weather.  Found in the Riverlands Farm or in the Wilderness Farm pond during rainy weather.
+    Catfish/Found in Rivers and Secret Woods Pond Anytime, Spring and Fall. Only when raining.
+    Shad/Found in Rivers, 9am – 2am, Spring, Summer, and Fall. Only when raining.
+    Tiger Trout/Found in Rivers, 6am – 7pm, Fall and Winter.
+  Lake Fish Bundle/Dressed Spinner (1)/4
+    Largemouth Bass/Found in the Mountain lake, 6am – 7pm, All Seasons.
+    Carp/Found in the Mountain lake, Anytime, All Seasons.Found in Cindersap Forest pond, Anytime, Spring, Summer, or Fall.Found in Secret Woods or Sewer, Anytime, All Seasons.
+    Bullhead/Found in the Mountain Lake, Anytime, All Seasons.
+    Sturgeon/Found in the Mountain Lake, 6am – 7pm, Summer and Winter.
+  Ocean Fish Bundle/Warp Totem: Beach (5)/4
+    Sardine/Found in the Ocean, 6am – 7pm, Spring, Fall, and Winter.
+    Tuna/Found in the Ocean, 6am – 7pm, Summer and Winter.
+    Red Snapper/Found in the Ocean, 6am – 7pm, Summer and Fall. Only when raining.
+    Tilapia/Found in the Ocean, 6am – 2pm, Summer and Fall.
+  Night Fishing Bundle/Small Glow Ring (1)/3
+    Walleye/Found in Rivers, Lakes and Forest Pond, 12pm – 2am, Fall. Only when raining.
+    Bream/Found in Rivers, 6pm – 2am, All Seasons.
+    Eel/Found in the Ocean, 4pm – 2am, Spring or Fall. Only when raining.
+  Crab Pot Bundle/Crab Pot (3)/5
+    Lobster/Caught in Crab Pots
+    Crayfish/Caught in Crab Pots
+    Crab/Caught in Crab Pots, drops from Rock Crabs or Lava Crabs in The Mines
+    Cockle/Caught in Crab Pots, Beach Foraging
+    Mussel/Caught in Crab Pots, Beach Foraging
+    Shrimp/Caught in Crab Pots
+    Snail/Caught in Crab Pots
+    Periwinkle/Caught in Crab Pots
+    Oyster/Caught in Crab Pots, Beach Foraging
+    Clam/Caught in Crab Pots, Beach Foraging
+  Specialty Fish Bundle/Dish o' The Sea (5)/4
+    Pufferfish/Found in the Ocean, 12pm – 4pm, Summer during sunny weather.
+    Ghostfish/Found in ponds in The Mines levels 20 and 60, Anytime, All Seasons. May also be dropped by Ghosts.
+    Sandfish/Found in the pond in The Desert, 6am – 8pm, All Seasons.
+    Woodskip/Found in the Secret Woods, Anytime, All Seasons.
+Boiler Room/Minecarts Repaired
+  Blacksmith's Bundle/Furnace (1)/3
+    Copper Bar/Smelting Copper Ore in the Furnace
+    Iron Bar/Smelting Iron Ore in the Furnace, Crafting the "Transmute (Fe)" recipe
+    Gold Bar/Smelting Gold Ore in the Furnace, Crafting the "Transmute (Au)" recipe
+  Geologist's Bundle/Omni Geode (5)/4
+    Quartz/Foraging on all levels of The Mines
+    Earth Crystal/Foraging on Levels 1-39 of The Mines, Geodes, Omni Geodes, drop from Duggies in the Mines (floors 1-29)
+    Frozen Tear/Foraging on Levels 40-79 of The Mines, Frozen Geodes, Omni Geodes, drop from Dust Sprites in the Mines (floors 40-80)
+    Fire Quartz/Foraging on Levels 80-120 of The Mines, Magma Geodes, Omni Geodes
+  Adventurer's Bundle/Small Magnet Ring (1)/2
+    Slime:99/Dropped by Slimes
+    Bat Wing:10/Dropped by Bats in The Mines
+    Solar Essence/Dropped by Ghosts, Squid Kids, or Metal Heads in The Mines, dropped by Mummies in the Skull Cavern
+    Void Essence/Dropped by Shadow Brutes in The Mines or Serpents in the Skull Cavern
+Bullitin Board/Friendship
+  Chef's Bundle/Pink Cake (3)/6
+    Maple Syrup/Tapped Maple Tree
+    Fiddlehead Fern/Summer Foraging in the Secret Woods
+    Truffle/Pigs
+    Poppy/Summer Crops
+    Maki Roll/Cooking (recipe sources: The Queen of Sauce, The Saloon)
+    Fried Egg/Cooking
+  Dye Bundle/Seed Maker (1)/6
+    Red Mushroom/Foraging in The Mines, Summer or Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree
+    Sea Urchin/Beach Foraging, after using 300 wood to fix the bridge to the right side of the beach
+    Sunflower/Summer / Fall Crops
+    Duck Feather/Ducks
+    Aquamarine/Aquamarine Nodes, boxes in The Mines, Fishing Treasure Chests
+    Red Cabbage/Summer Crops (Red Cabbage Seeds are available at Pierre's General Store in year 2+)
+  Field Research Bundle/Recycling Machine (1)/4
+    Purple Mushroom/The Mines, The Farm Cave (mushroom option), Forest Farm Map Foraging in Fall
+    Nautilus Shell/Winter Beach Foraging (Note: NOT the Nautilus Fossil artifact)
+    Chub/Can be found in the mountain lake and river during all seasons, any time.
+    Frozen Geode/The Mines Levels 40-79
+  Fodder Bundle/Heater (1)/3
+    Wheat:10/Summer / Fall Crops
+    Hay:10/Purchase at Marnie's Ranch, or harvest grass with the Scythe once you have a Silo, and withdraw the hay from the Hay Hopper once you have a Coop or Barn
+    Apple:3/Apple Trees during Fall, The Farm Cave (fruit bat option)
+  Enchanter's Bundle/Gold Bar (5)/4
+    Oak Resin/Tapped Oak Tree
+    Wine/Keg
+    Rabbit's Foot/Rabbits, Serpent drop in Skull Cavern (0.8%)
+    Pomegranate/Pomegranate Trees during Fall, The Farm Cave (fruit bat option)
