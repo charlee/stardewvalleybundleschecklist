@@ -58,7 +58,9 @@ const App: React.FC = () => {
   }, []);
 
   useEffect(() => {
-    Cookies.set(COOKIE_NAME, JSON.stringify(checkedState));
+    Cookies.set(COOKIE_NAME, JSON.stringify(checkedState), {
+      expires: 36500,
+    });
   });
 
   const handleReset = () => setCheckedState({});
@@ -93,11 +95,19 @@ const App: React.FC = () => {
         </p>
         <p>
           Bundle and Item information is from the{' '}
-          <a href="https://stardewvalleywiki.com/Bundles" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://stardewvalleywiki.com/Bundles"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Stardew Valley Wiki
           </a>{' '}
           and is used under the{' '}
-          <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" rel="noopener noreferrer">
+          <a
+            href="http://creativecommons.org/licenses/by-nc-sa/3.0/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             CC BY-NC-SA 3.0
           </a>{' '}
           License.
@@ -108,12 +118,18 @@ const App: React.FC = () => {
             Chucklefish LTD.
           </a>{' '}
           Developed by{' '}
-          <a href="https://twitter.com/ConcernedApe" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://twitter.com/ConcernedApe"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             ConcernedApe
           </a>
           .
         </p>
-        <p><Github link="https://github.com/charlee/stardewvalleybundleschecklist"/></p>
+        <p>
+          <Github link="https://github.com/charlee/stardewvalleybundleschecklist" />
+        </p>
       </div>
     </div>
   );
