@@ -88,7 +88,7 @@ const App: React.FC = () => {
       <div className={classes.footer}>
         <p>
           Stardew Valley Bundles Checklist developed by{' '}
-          <a href="https://github.com/charlee" target="_blank">
+          <a href="https://github.com/charlee" target="_blank" rel="noopener noreferrer">
             Charlee Li
           </a>
           . The source code is licensed under MIT.
