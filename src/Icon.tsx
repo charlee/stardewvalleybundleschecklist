@@ -15,7 +15,7 @@ codegen`
     ).join(';\\n') + ';\\n';
 `;
 
-const mappings = codegen`
+const mappings: { [key: string]: string } = codegen`
     const glob = require('glob');
     const files = glob.sync('src/assets/icons/*.png');
 
